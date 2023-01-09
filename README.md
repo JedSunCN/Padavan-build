@@ -14,3 +14,6 @@
 3.点击右上角的 Star 星星按钮即可开始自动编译（自己点击才会编译）。修改配置后若需再次编译，先点击Star取消Star后，再点击Star即可重新编译。
 
 编译完成后在Actions页面底部下载固件。
+
+
+https://www.right.com.cn/FORUM/forum.php?mod=viewthread&tid=8154809&highlight=b70%2Bpadavan
